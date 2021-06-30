@@ -1,6 +1,6 @@
 {
   "name": "gia-ast",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "A CLI Wrapping AST Web API calls to servers",
   "main": "index.js",
   "scripts": {
